@@ -27,3 +27,4 @@ for (row, col), color in pixels.items():
     cell.fill = PatternFill(start_color=color, end_color=color, fill_type="solid")
 
 wb.save("YourLastName_HW5.xlsx")
+.
